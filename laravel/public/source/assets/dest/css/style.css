@@ -1,0 +1,326 @@
+
+.navbar-default .navbar-nav>li>a {
+    color: #111;
+    font-size: 18px
+}
+.navbar-default .navbar-nav>li>a:hover {
+	color: #0000EE;
+}
+}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    display: block;
+    height: 400px;
+    min-width: 100%;
+    width: 100%;	
+    max-width: 100%;
+    line-height: 1;
+    }
+.add-to-cart {
+background-color:#3a5c83;
+height:38px;
+width:40px;
+text-align:center;
+display:inline-block;
+margin-right:2px
+}
+.add-to-cart:hover {
+background-color: #f90;
+}
+
+.beta-btn {
+color:#fff;
+border:1px solid  #57a7c6;
+display:inline-block;
+padding:6px 20px
+}			
+
+.beta-btn:hover {
+color:#fff
+}
+
+.beta-btn i.shift-left {
+margin-left:-5px
+}
+.add-to-cart i {
+font-size:22px;
+color:#fff;
+line-height:35px
+}
+.beta-btn.primary {
+color:#606366;
+padding:10px 20px;
+line-height:100%
+}
+
+.beta-btn.primary:hover {
+color:#fff;
+background:#3a5c83
+}
+
+.beta-btn.primary i {
+font-size:10px;
+padding-left:5px;
+color:#f59
+}
+h4,.h4 {
+text-align: center;
+color:#F90;
+font-size:2.30769em;
+line-height:39.78px;
+font-weight:300;
+margin-top:0
+}
+
+h6,.h6 {
+color:#0000DD;
+font-size:1.80769em;
+line-height:39.78px;
+font-weight:300;	
+}
+h3,.h3 {
+text-transform: uppercase;
+color:#153951;
+font-size:1.30769em;
+line-height:39.78px;
+font-weight:250;
+margin-top:0
+}
+
+
+.aside-menu {
+    list-style: none;
+    background: #f8f8f8;
+    border: 1px solid #bfa9a9;
+    padding: 25px;
+}
+.aside-menu li {
+    padding: 10px 0;
+    border-bottom: 2px solid #e5e4e1;
+}
+.wc-select {
+    width: 105px;
+    height: 35px;	
+    margin-right: 10px;
+}
+.single-item-options>* {
+    float: right;
+    }
+select {
+    box-shadow: none;
+    border: 1px solid #e1e1e1;
+    cursor: pointer;
+    width: 100%;
+}
+.space40 {
+    line-height: 40px;
+}
+.woocommerce-tabs ul.tabs {
+    list-style: none;
+    padding-left: 1px;
+    margin-bottom: -1px;
+    z-index: 10;
+	border: 2px solid #f6f6f6;
+
+}
+.woocommerce-tabs ul.tabs li a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 15px 35px;
+ 
+}
+.woocommerce-tabs .panel {
+    margin: 0 0 2em;
+    padding: 30px 30px 20px;
+    border: 2px solid #f6f6f6;
+    border-radius: 0;
+}
+.aside .widget-title {
+    font-size: 13px;
+    text-transform: uppercase;
+    border: 1px solid #e1e1e1;
+    padding-left: 20px;
+    border-left: 3px solid #606366;
+    color: #606366;
+}
+.media, .media-body {
+    overflow: hidden;
+    zoom: 1;
+}
+.media:first-child {
+    margin-top: 0;
+}
+.beta-lists>* {
+    padding: 20px;
+    border-bottom: 1px dotted #e1e1e1;
+    margin-top: 0;
+}
+.pull-left {
+    font-size: 20px;
+    margin-top: 0px;
+    border-bottom: 1px groove #e1e1e1;
+
+}
+.contact-form input {
+    width: 80%;
+}
+.form-block {
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+input[type="text"], input[type="email"], input[type="url"], textarea {
+    width: 100%;
+    border: 1px solid #e1e1e1;
+    height: 42px;
+    padding: 0 12px;
+}
+textarea {
+    height: 260px;
+    padding: 12px;
+}  
+
+}
+.single-item-title {    
+    font-size: 20px;
+    margin-left: 20px;
+    font-weight: bold;
+    color:#3366CC   ;
+    font-family: initial;
+}       
+.flash-del {
+    text-decoration: line-through;
+    margin-right: 10px;
+}
+.flash-sale {
+    color: #0033FF; 
+     margin-right: 10px;
+}
+.single-item-price{
+    font-size: 18px;
+}
+.ribbon-wrapper {
+    width: 60px;
+    height: 60px;
+    overflow: hidden;
+    position: absolute;
+    top: -3px;
+    right: -3px;
+}
+.ribbon {
+    color: #FFFF00;
+    text-align: center;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    position: relative;
+    padding: 4px 0;
+    left: 0px;
+    top: 4px;
+    width: 80px;
+    text-transform: uppercase;
+    background-color: #3a5c83;
+    }
+.phantrang{
+    float:right;
+}
+.clearfix{
+    margin-top: 10px;
+    margin-bottom: 2%;
+
+}
+.timthay{
+    float: right;
+    font-size: 20px;
+    color: #f90
+}
+.dropdown{
+    margin-top: 12px;
+    font-size: 18px
+   }
+.dropdown>a{
+ text-decoration: none;
+
+}
+a {
+
+    color: #0b0c0c;
+}
+a:hover {
+    text-decoration: none;
+    color: #0000EE
+}
+.nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
+    background-color: #CBCBCB;
+    border-color: #428bca;
+}
+.dropdown-menu{
+    font-size: 20px;
+    width: 200px;
+}   
+.single-item-header img:hover{
+-webkit-transform:scale(1.3,1.3);
+transform:scale(1.3,1.3);
+box-shadow:0px 0px 30px gray; /*Đổ bóng bằng CSS3*/
+-webkit-box-shadow:0px 0px 30px gray;
+-moz-box-shadow:0px 0px 30px gray; 
+opacity: 1; /*Độ mờ của hình ảnh*/
+}
+
+/* css footer  */
+.box-title {
+    margin-top: 30px;
+    max-width: 940px;
+    margin: 0 auto 30px auto;
+    position: relative;
+    font-size: 24px;
+    font-weight: 700;
+    color: #f90 ;
+    text-transform: uppercase;
+    text-align: center;
+}
+.gach-ngang {
+    border-top: 4px solid #747474;  
+}
+.col-sm-4 {
+    border: 3px solid #e1e1e1;
+    height: 520px;
+}
+.col-sm-4 {
+    border: 3px solid #e1e1e1;
+}
+#hinhchitiet {
+    height: 380px;
+
+}
+#hinhchitiet img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#hinhchitiet img:hover{
+  -webkit-transform:scale(1.3,1.3);
+transform:scale(1.3,1.3);
+box-shadow:0px 0px 30px gray; /*Đổ bóng bằng CSS3*/
+-webkit-box-shadow:0px 0px 30px gray;
+-moz-box-shadow:0px 0px 30px gray; 
+opacity: 1; /*Độ mờ của hình ảnh*/
+}
+.single-item-title {
+    color: #0000EE;
+    font-size: 30px;
+
+}
+.woocommerce-tabs{
+    max-width: 60%;
+    margin-left: 30%;
+}
+.giohangct{
+    margin-top: 300px;
+}
+.btn-default {
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+    height: 40px;
+}
