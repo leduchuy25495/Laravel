@@ -131,7 +131,7 @@ select {
 }
 .woocommerce-tabs .panel {
     margin: 0 0 2em;
-    padding: 30px 30px 20px;
+    padding: 15px 30px 20px;
     border: 2px solid #f6f6f6;
     border-radius: 0;
 }
@@ -313,7 +313,7 @@ opacity: 1; /*Độ mờ của hình ảnh*/
 }
 .woocommerce-tabs{
     max-width: 60%;
-    margin-left: 30%;
+    margin-left: 10%;
 }
 .giohangct{
     margin-top: 300px;
@@ -323,4 +323,7 @@ opacity: 1; /*Độ mờ của hình ảnh*/
     background-color: #fff;
     border-color: #ccc;
     height: 40px;
+}
+#hienthichitietsp {
+
 }

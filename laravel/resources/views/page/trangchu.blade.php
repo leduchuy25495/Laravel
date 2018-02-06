@@ -40,7 +40,7 @@
                                     <input type="hidden" name="_token" value="{{ csrf_token() }}">
                               <a class="add-to-cart pull-left" href="{{route('dathang',$new->id)}}"><i class="fa fa-shopping-cart"></i></a>
 
-                                        <a class="beta-btn primary" href="product.html">Xem Chi Tiết <i class="fa fa-chevron-right"></i></a>
+                                        <a class="beta-btn primary" href="{{route('chitietsanpham',$new->id)}}">Xem Chi Tiết <i class="fa fa-chevron-right"></i></a>
                       <div class="clearfix"></div>
                                 </form>
                   
@@ -78,7 +78,7 @@
 
                     <div class="single-item-caption">
                       <a class="add-to-cart pull-left" href="{{route('dathang',$new->id)}}"><i class="fa fa-shopping-cart"></i></a>
-                      <a class="beta-btn primary" href="product.html">Xem Chi Tiết <i class="fa fa-chevron-right"></i></a>
+                      <a class="beta-btn primary" href="{{route('chitietsanpham',$spkm->id)}}">Xem Chi Tiết <i class="fa fa-chevron-right"></i></a>
                       <div class="clearfix"></div>
                       <div class="clearfix"></div>  
                       <div class="clearfix"></div>

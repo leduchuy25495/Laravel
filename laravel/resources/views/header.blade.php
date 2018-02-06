@@ -20,7 +20,7 @@
                             <li><a href="{{route('lienhe')}}">Liên Hệ</a></li>
                         </ul>
                 </div>
-          
+      
                 <!-- Collect the nav links, forms, and other content for toggling -->
 
                    <ul class="nav navbar-nav navbar-right">
